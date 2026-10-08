@@ -2,7 +2,7 @@
 
 A generative art experiment in Python using parametric mathematics (Fay's Butterfly Curve) and Tkinter canvas rendering to create a neon-glowing butterfly.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1090adff-72d8-45c0-be6a-99c55dd91698" />
+<img width="828" height="826" alt="WhatsApp Image 2026-10-08 at 15 05 48" src="https://github.com/user-attachments/assets/041be4fa-a588-4a9b-8313-20ecea68dd48" />
 
 
 ## Features
