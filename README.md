@@ -13,4 +13,4 @@ A generative art experiment in Python using parametric mathematics (Fay's Butter
 ## How to Run
 
 ```bash
-python butterfly.py
+python neon.py
